@@ -29,4 +29,4 @@ If it is - overflow exists.
 (0xe0000020 + 0x20000012) % 10000000
 ```
 
-Enjoy! ;>
+Enjoy!
